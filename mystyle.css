@@ -1,0 +1,16 @@
+.fb, .lkd, .tweet
+{
+background-color: #00aeef !important;
+background-image: none !important;
+width: 125px;
+padding: 15px;
+display:inline;
+margin:10px;
+}
+
+.share_button
+{
+margin-top:50px;
+}
+
+
