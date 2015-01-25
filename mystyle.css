@@ -1,4 +1,4 @@
-.fb, .lkd, .tweet
+  .fb, .lkd, .tweet
 {
 background-color: #00aeef !important;
 background-image: none !important;
@@ -10,7 +10,7 @@ margin:10px;
 
 .share_button
 {
-margin-top:50px;
+margin-top:10px;
 }
 
 
